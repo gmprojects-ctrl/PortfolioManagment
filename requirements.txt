@@ -1,0 +1,3 @@
+pandas==2.2.2 
+yfinance==0.2.38
+dash==2.17.0
